@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.annoying-points li {
+  list-style-type: none;
+  padding-left: 30px;
+}
+
+.allfather {
+  display: flex;
+  align-items: center;
+}
+
+.telegram-text {
+  color: rgba(60, 64, 67, 1);
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.annoying-points {
+  display: flex;
+  padding-left: 100px ;
+}
+
+.fa-class {
+	font-size: 25px;
+	color: rgb(41, 138, 202);
+	margin-left: 24px;
+}
